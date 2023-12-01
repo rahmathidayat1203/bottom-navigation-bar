@@ -56,7 +56,7 @@ Repository untuk memberikan tutorial bagaimana cara membuat bottom navigation ba
              android:textSize="20dp"
              android:layout_gravity="center"/>
      </FrameLayout>
-     ``` 
+``` 
  - **Fragment Profile:**
  ```xml
      <!-- profile_fragment.xml -->
@@ -74,7 +74,7 @@ Repository untuk memberikan tutorial bagaimana cara membuat bottom navigation ba
              android:textSize="20dp"
              android:layout_gravity="center"/>
      </FrameLayout>
-     ``` 
+ ``` 
  - **Fragment Settings:**
  ```xml
      <!-- settings_fragment.xml -->
