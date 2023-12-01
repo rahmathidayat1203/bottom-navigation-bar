@@ -1,4 +1,4 @@
-
+![image](https://github.com/rahmathidayat1203/bottom-navigation-bar/assets/55992301/d6cc14b5-7e68-4cfa-844f-ed22963b2926)
 # bottom-navigation-bar
 Repository untuk memberikan tutorial bagaimana cara membuat bottom navigation bar
 ### Ikutin langkah-langkah di bawah untuk membuat bottom navigation bar Android Studio dengan Kotlin:
@@ -134,5 +134,5 @@ Repository untuk memberikan tutorial bagaimana cara membuat bottom navigation ba
 **Gambar Hasil**
 
 <img src="https://github.com/rahmathidayat1203/bottom-navigation-bar/blob/main/hasil%20akhir/home.jpg?raw=true" width="150px"/>
-<img src="https://raw.githubusercontent.com/rahmathidayat1203/bottom-navigation-bar/main/hasil%20akhir/profile.jpg?raw=true" width="150px"/>
+<img src="https://github.com/rahmathidayat1203/bottom-navigation-bar/blob/main/hasil%20akhir/profile.jpg?raw=true" width="150px"/>
 <img src="https://github.com/rahmathidayat1203/bottom-navigation-bar/blob/main/hasil%20akhir/setting.jpg?raw=true" width="150px"/>
