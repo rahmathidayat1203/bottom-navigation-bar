@@ -133,4 +133,4 @@ Repository untuk memberikan tutorial bagaimana cara membuat bottom navigation ba
 
 **Gambar Hasil**
 
-<img src="https://github.com/rahmathidayat1203/bottom-navigation-bar/blob/main/hasil%20akhir/home.jpg?raw=true" />
+<img src="https://github.com/rahmathidayat1203/bottom-navigation-bar/blob/main/hasil%20akhir/home.jpg?raw=true" width="150px"/>
